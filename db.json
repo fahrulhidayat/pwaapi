@@ -1,0 +1,24 @@
+{
+products: [
+[{"id":1,"name":"Squirrel, thirteen-lined","category":"Pink"},
+{"id":2,"name":"Lizard, goanna","category":"Turquoise"},
+{"id":3,"name":"Chimpanzee","category":"Blue"},
+{"id":4,"name":"Wapiti, elk,","category":"Violet"},
+{"id":5,"name":"Shrew, mandras tree","category":"Teal"},
+{"id":6,"name":"Canadian river otter","category":"Aquamarine"},
+{"id":7,"name":"Agouti","category":"Mauv"},
+{"id":8,"name":"Pheasant, common","category":"Puce"},
+{"id":9,"name":"Common genet","category":"Violet"},
+{"id":10,"name":"Crab, sally lightfoot","category":"Aquamarine"},
+{"id":11,"name":"Pie, rufous tree","category":"Puce"},
+{"id":12,"name":"Baboon, yellow","category":"Red"},
+{"id":13,"name":"Opossum, american virginia","category":"Fuscia"},
+{"id":14,"name":"Viper, egyptian","category":"Turquoise"},
+{"id":15,"name":"Pademelon, red-legged","category":"Puce"},
+{"id":16,"name":"Eastern box turtle","category":"Turquoise"},
+{"id":17,"name":"Buffalo, african","category":"Pink"},
+{"id":18,"name":"Armadillo, nine-banded","category":"Crimson"},
+{"id":19,"name":"Hudsonian godwit","category":"Goldenrod"},
+{"id":20,"name":"Zorro, azara's","category":"Aquamarine"}]
+]
+}
