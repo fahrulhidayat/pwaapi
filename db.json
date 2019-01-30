@@ -1,5 +1,5 @@
 {
-"products": [
+"products":
 [{"id":1,"name":"Squirrel, thirteen-lined","category":"Pink"},
 {"id":2,"name":"Lizard, goanna","category":"Turquoise"},
 {"id":3,"name":"Chimpanzee","category":"Blue"},
@@ -20,5 +20,4 @@
 {"id":18,"name":"Armadillo, nine-banded","category":"Crimson"},
 {"id":19,"name":"Hudsonian godwit","category":"Goldenrod"},
 {"id":20,"name":"Zorro, azara's","category":"Aquamarine"}]
-]
 }
